@@ -1,3 +1,5 @@
+//Copy everything from line 1 to 26
+
 //SRTM Digital Elevation Data Version 4
 
 var image = ee.Image('CGIAR/SRTM90_V4');
