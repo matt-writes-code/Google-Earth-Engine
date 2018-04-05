@@ -1,0 +1,24 @@
+//SRTM Digital Elevation Data Version 4
+
+var image = ee.Image('CGIAR/SRTM90_V4');
+
+var maps = [];
+
+// Lowlands panel
+var lowlands = ui.Map();
+lowlands.addLayer(image, {min: 0, max: 300, opacity:0.8, palette:['red','orange','yellow','green','blue','black']}, 'Less than 100');
+lowlands.add(ui.Label('Lowlands'));
+maps.push(lowlands);
+
+// Highlands panel
+var highlands = ui.Map();
+highlands.addLayer(image, {min: 0, max: 4000, opacity:0.8, palette:['black','blue','green','yellow','orange','red']}, 'Less than 100');
+highlands.add(ui.Label('Highlands'));
+maps.push(highlands);
+
+//Link maps together
+ui.Map.Linker(maps);
+maps[0].setCenter(40, 0, 2);
+
+// Print map
+ui.root.widgets().reset(maps);
