@@ -8,4 +8,4 @@ This code displays land elevation of lowlands and highlands. Get yourself signed
 
 There you have it! You should be able to see both maps side by side.
 
-![alt text](https://raw.githubusercontent.com/mayojich/GoogleEarthEngine/master/Land%20Elevation_preview.png "Land Elevation")
+![alt text](https://raw.githubusercontent.com/mayojich/Google-Earth-Engine/master/Land-Elevation/Land%20Elevation_preview.png "Land Elevation")
