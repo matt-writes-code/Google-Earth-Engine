@@ -1,5 +1,5 @@
 # Google-Earth-Engine
-There are two maps in here. One is called Land Elevation and the other, Night Lights.
+There are two maps in here. One is called Land Elevation and the other is Night Lights.
 
 # Land Elevation
 
@@ -13,7 +13,7 @@ There you have it! You should be able to see both maps side by side.
 
 ![alt text](https://raw.githubusercontent.com/mayojich/Google-Earth-Engine/master/Land-Elevation/Land%20Elevation_preview.png "Land Elevation")
 
-# Google Earth Engine - Night lights
+# Night Lights
 
 This is a night map of the Korean Penisular reproduced on Google Earth Engine. Areas with stronger lighting have higher energy consumption and concentrated populations like cities, indicating more infrastructure and stable economies. Darker areas may be mountains, sea, or simply under-developed.
 
