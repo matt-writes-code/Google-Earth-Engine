@@ -1,5 +1,5 @@
 # Google-Earth-Engine
-Have a look at the highlands and lowlands of the world. 
+There are two maps in here. One is called Land Elevation and the other, Night Lights.
 
 # Land Elevation
 
