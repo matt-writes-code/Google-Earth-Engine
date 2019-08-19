@@ -21,6 +21,6 @@ This map may look very different in the next few years. It was just last year my
 
 I think China will continue to influence this relationship because they are sole contributors to North Korea's failed economy. Investing in the country will be expensive with little returns. But someone has to start somewhere to light up the map.
 
-View it on [Google Earth Engine](https://code.earthengine.google.com/e70bbf0aef1655a7a5c1ea32ad608b69).
+View the [Demo](https://code.earthengine.google.com/e70bbf0aef1655a7a5c1ea32ad608b69).
 
 ![alt text](https://raw.githubusercontent.com/mayojich/Google-Earth-Engine/master/Night-Lights/Korean%20Peninsular_Night-lights.jpg "Night Lights")
